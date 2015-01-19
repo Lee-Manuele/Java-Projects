@@ -1,2 +1,5 @@
-This is my attempt at the Toy Robot Exercise.
-NOTE: If you want to view the files in an IDE such as eclipse, junit 4 is required.
+Welcome to Lee Manuele's projects folder. All projects found here were written in the programming language Java.
+
+Projects that currently reside...
+
+ * Toy Robot Exercise
